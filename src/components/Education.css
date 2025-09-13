@@ -155,4 +155,8 @@
     display: flex;
     flex-direction: column;
   }
+
+  .eduInfoBox{
+    margin: 10px;
+  }
 }
