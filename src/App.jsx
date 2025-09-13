@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Button from 'react-bootstrap/Button';
-import aboutPic from './assets/aboutPic.png';
+import aboutPic from './assets/aboutPic.jpg';
 import 'react-vertical-timeline-component/style.min.css';
 
 import { IoLogoGithub } from "react-icons/io";
