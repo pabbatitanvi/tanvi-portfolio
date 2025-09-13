@@ -26,6 +26,7 @@
   border-radius: 20px;
   background-color: rgb(56, 56, 56);
   cursor: pointer;
+  color: white;
 }
 
 .skillButton:hover{
@@ -34,6 +35,7 @@
 
 .activeSkill{
   background-color: #0EA5E9;
+  color: white;
 }
 
 .allSkills {
